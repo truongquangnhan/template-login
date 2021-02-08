@@ -8,7 +8,7 @@
 <li>Tested on Mozilla, Chrome and IE 11</li>
 </ul>
 
-<h4>Screenshots</h4>
+<h4>XXX</h4>
 <ol>
 <li>Nhấn vào code chọn dowload zip</li>
 <li>Đăng nhập với username: phimconlon | password: haytuyet</li>
