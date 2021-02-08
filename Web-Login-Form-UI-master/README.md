@@ -10,6 +10,6 @@
 
 <h4>Screenshots</h4>
 <ol>
-<li>https://goo.gl/photos/LcTCcJgGQDsJSqRx9</li>
-<li>https://goo.gl/photos/TPEJ6f3TixD6ZKuR9</li>
+<li>Nhấn vào code chọn dowload zip</li>
+<li>Đăng nhập với username: phimconlon | password: haytuyet</li>
 </ol>
